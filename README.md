@@ -235,6 +235,4 @@ But if you still want to stick to old make then:
 
 The _android-cmake_ should correctly handle projects with assembler sources (`*.s` or `*.S`). But if you still facing problems with assembler then try to upgrade your CMake to version newer than 2.8.5
 
-## Copying
 
-_android-cmake_ is distributed under the terms of [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)

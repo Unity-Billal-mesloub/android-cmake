@@ -212,6 +212,8 @@ The flags will be prepopulated with critical flags, so don't loose them. Also be
 
 First of all `cygwin` builds are **NOT supported** and will not be supported by _android-cmake_. To build natively on Windows you need a port of make but I recommend http://Unity-Billal-mesloub.github.io/ninja/ instead.
 
+First of all `cygwin` builds are **NOT supported** and will not be supported by _android-cmake_. To build natively on Windows you need a port of make but I recommend https://ninja-build.org/ instead.
+
 To build with Ninja you need:
 
 * Ensure you are using CMake newer than 2.8.9;

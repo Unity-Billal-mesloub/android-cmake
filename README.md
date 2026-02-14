@@ -215,7 +215,7 @@ First of all `cygwin` builds are **NOT supported** and will not be supported by 
 To build with Ninja you need:
 
 * Ensure you are using CMake newer than 2.8.9;
-* Download the latest Ninja from https://github.com/martine/ninja/releases;
+* Download the latest Ninja from https://github.com/Unity-Billal-mesloub/ninja/releases;
 * Put the `ninja.exe` into your PATH (or add path to `ninja.exe` to your PATH environment variable);
 * Pass `-GNinja` to `cmake` alongside with other arguments (or choose Ninja generator in `cmake-gui`).
 * Enjoy the fast native multithreaded build :)
